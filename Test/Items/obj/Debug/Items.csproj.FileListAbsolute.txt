@@ -1,0 +1,4 @@
+C:\Users\Wolfy\Documents\GitHub\LudumEngine\DEV\SMFL_LIB\Test\Items\bin\Debug\Items.dll
+C:\Users\Wolfy\Documents\GitHub\LudumEngine\DEV\SMFL_LIB\Test\Items\bin\Debug\Items.pdb
+C:\Users\Wolfy\Documents\GitHub\LudumEngine\DEV\SMFL_LIB\Test\Items\obj\Debug\Items.dll
+C:\Users\Wolfy\Documents\GitHub\LudumEngine\DEV\SMFL_LIB\Test\Items\obj\Debug\Items.pdb
