@@ -189,7 +189,7 @@ namespace TestServer
                     p.addGameObj(va);
                 
                 }
-                Console.WriteLine("Dub the fuck out this shit");
+            
                 foreach (ConClient va in ClientList)
                 {
                     
